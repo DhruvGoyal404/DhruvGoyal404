@@ -75,16 +75,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+  <div align="center">
+    <img height="150" src="https://gifdb.com/images/high/sweet-little-cute-cat-meow-hi-dzfwgl4wj601ahyb.gif" />
+  </div>
 
-<div align="center">
-  <img height="150" src="https://gifdb.com/images/high/sweet-little-cute-cat-meow-hi-dzfwgl4wj601ahyb.gif"  />
-</div>
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/DhruvGoyal404/DhruvGoyal404/output/snake.svg" alt="Snake animation" />
-
-###
