@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dhruv, a 17 year old Tech Geek! 👨🏻‍💻</h2>
+<h2 align="left">Hi 👋! My name is Dhruv, a 18 year old Tech Geek! 👨🏻‍💻</h2>
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvgoyal404&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvgoyal404" /> </p>
