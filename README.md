@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=18-year-old+Tech+Geek+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Computer+Science+Engineering+Student;TIET+Patiala+%7C+3rd+Year;DSA+Problem+Solver+%F0%9F%92%AA;Full+Stack+Developer+%F0%9F%9A%80;Always+learning+new+technologies!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22)](https://github.com/DhruvGoyal404)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=18-year-old+Tech+Geek+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Computer+Science+BTech+Student;TIET+Patiala+%7C+3rd+Year;DSA+Problem+Solver+%F0%9F%92%AA;Full+Stack+Developer+%F0%9F%9A%80;Always+learning+new+technologies!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22)](https://github.com/DhruvGoyal404)
 
 </div>
 
@@ -14,7 +14,7 @@
 - 💻 Passionate about **Data Structures & Algorithms**  
 - 📱 **Full Stack Developer** with expertise in **MERN Stack**  
 - 🎯 Always up for **coding challenges** and **open source** contributions  
-- ⚡ **Fun fact**: Catch me up for a Netflix recommendation! 🧩
+- ⚡ **Fun fact**: Catch me up for a Netflix recommendation!!! 🍿🍿
 
 ---
 
@@ -24,7 +24,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=DhruvGoyal404&label=Profile%20views&color=61dafb&style=flat" alt="Profile views" />
 
-[![View My Resume](https://img.shields.io/badge/View%20My%20Resume-FF5722?style=for-the-badge&logo=readme&logoColor=white)](https://dhruvgoyal.tech/me)
+[![View My Resume](https://img.shields.io/badge/View%20My%20Resume-FF5722?style=for-the-badge&logo=readme&logoColor=white)](https://dhruvgoyal.tech)
 
 </div>
 
