@@ -1,150 +1,167 @@
-# 👋 Hi there, I'm Dhruv Goyal!
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=18-year-old+Tech+Geek+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Computer+Science+BTech+Student;TIET+Patiala+%7C+3rd+Year;DSA+Problem+Solver+%F0%9F%92%AA;Full+Stack+Developer+%F0%9F%9A%80;Always+learning+new+technologies!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22)](https://github.com/DhruvGoyal404)
-
-</div>
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Q3N2cwMTJpcnh6bGlkaHZmOGpmZmZpcHNvY3h3d2h5azZoc2VkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
-
-## 🚀 About Me
-
-- 🎓 **18, 3rd Year CSE Student** at **TIET, Patiala**  
-- 💻 Passionate about **Data Structures & Algorithms**  
-- 📱 **Full Stack Developer** with expertise in **MERN Stack**  
-- 🎯 Always up for **coding challenges** and **open source** contributions  
-- ⚡ **Fun fact**: Catch me up for a Netflix recommendation!!! 🍿🍿
-
----
-
 <div align="center">
 
-## 👀 Profile Views & Resume
+```
+╔════════════════════════════════════════════════════════════════╗
+║     Proceedings of Dhruv Goyal · arXiv:2023.dg404 [cs.AI]    ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://komarev.com/ghpvc/?username=DhruvGoyal404&label=Profile%20views&color=61dafb&style=flat" alt="Profile views" />
+# Dhruv Goyal
 
-[![View My Resume](https://img.shields.io/badge/View%20My%20Resume-FF5722?style=for-the-badge&logo=readme&logoColor=white)](https://dhruvgoyal.tech)
+**Computer Engineering · Thapar Institute of Engineering & Technology**
+**AI Researcher · Full-Stack Engineer · NLP · Computer Vision**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ACL+2026+Published+Researcher;SIH+2025+National+Winner;Ministry+of+Defence+AI+Associate;Full+Stack+%2B+ML+Engineer;&font=Fira+Code&center=true&width=500&height=40&color=58a6ff&vCenter=true&pause=1000&size=18)](https://github.com/DhruvGoyal404)
+
+<img src="https://komarev.com/ghpvc/?username=DhruvGoyal404&label=profile+views&color=58a6ff&style=flat" />
+[![GitHub followers](https://img.shields.io/github/followers/DhruvGoyal404?label=followers&style=flat&color=58a6ff)](https://github.com/DhruvGoyal404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-58a6ff?style=flat&logo=linkedin)](https://linkedin.com/in/DhruvGoyalThapar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhruvgoyal.tech-58a6ff?style=flat)](https://dhruvgoyal.tech)
 
 </div>
 
 ---
 
+## § Abstract
+
+Third-year undergraduate researcher and engineer at TIET Patiala, working at the intersection of NLP, computer vision, and full-stack systems. Published at **ACL 2026** (SemEval + SMM4H workshops) with 3 accepted papers spanning causal reasoning, health mining, and word sense prediction. Concurrently serving as AI & DevOps Research Associate at the **Ministry of Defence, India**. National winner at **Smart India Hackathon 2025**. Builds production systems by day, breaks them to understand them by night.
+
+---
+
+## § 1 · Publications
+
+> *ACL 2026 · San Diego, California · July 2–7, 2026*
+
+**[1] Team Paradise at SemEval-2026**
+*20th International Workshop on Semantic Evaluation, co-located with ACL 2026*
+
+| Task | Title | Result |
+|------|-------|--------|
+| Task 12 | Abductive Event Reasoning via Chain-of-Thought LLMs | Score: **0.79** · Rank **59 / 221** |
+| Task 5 | Graded Word Sense Plausibility Prediction | Negative finding on classical feature engineering |
+
+**[2] Team Paradise at SMM4H–HeaRD 2026**
+*11th Social Media Mining for Health Workshop, co-located with ACL 2026*
+
+| Task | Title | Result |
+|------|-------|--------|
+| Task 1 | Multilingual Adverse Drug Event Detection (XLM-RoBERTa) | Macro-F1 **0.597** · +0.050 above mean |
+| Task 3 | Flu Vaccine Effectiveness Classification (twitter-RoBERTa) | Micro-F1 **0.89** |
+| Task 7 | Opioid Impact Span Extraction (RoBERTa + CRF) | Relaxed F1 **0.60** · above task mean |
+
+---
+
+## § 2 · Experience
+
+```
+Ministry of Defence, India          AI & DevOps Research Associate    Sept 2025 – Present
+  └─ CNN object detection · 98.7% accuracy · 10+ military instruments · sub-200ms inference
+
+Amazon – ML Summer School           Apprentice Trainee                Aug – Sept 2025
+  └─ Selected top 5% from 60,000+ applicants · Deep Learning, NLP, Generative AI
+
+Rebec Technologies Pvt. Ltd.        Summer SDE Intern                 Jun – Aug 2025
+  └─ Kompte platform · 5000+ daily users · Cashfree payments · CI/CD pipelines
+```
+
+---
+
+## § 3 · Projects
+
+| Project | Stack | Highlight |
+|---------|-------|-----------|
+| 🛡️ [**Vajra**](https://github.com/ShreeMishraa/Team_Sudarshana007SIH) — AI-Driven NGFW | Suricata · DPDK · Kafka · GNN · TensorFlow | 5-phase pipeline · 94% DGA accuracy · 15µs latency · **SIH 2025 Winner** |
+| 👗 [**Deradh**](https://www.deradh.com/) — Virtual Try-On Platform | Python · OpenCV · Mediapipe · TensorRT | ±3cm precision · sub-200ms inference · 50+ concurrent users |
+| 🏥 [**Arogyam**](https://arogyam-hms.vercel.app/) — Hospital Management | Vite · Firebase · React · Node.js | 1000+ patient records · 25% faster API response · 90+ SEO |
+
+---
+
+## § 4 · Technical Stack
+
 <div align="center">
 
-## 📊 GitHub Analytics
+**Languages**
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvGoyal404&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=DhruvGoyal404&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=58a6ff)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=58a6ff)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat&logo=openjdk&logoColor=58a6ff)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat&logo=go&logoColor=58a6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=58a6ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=58a6ff)
 
-<br/>
+**AI / ML**
 
-<img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvGoyal404&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat&logo=tensorflow&logoColor=58a6ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=58a6ff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat&logo=huggingface&logoColor=58a6ff)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat&logo=opencv&logoColor=58a6ff)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0d1117?style=flat&logo=scikitlearn&logoColor=58a6ff)
+
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=58a6ff)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat&logo=nextdotjs&logoColor=58a6ff)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=nodedotjs&logoColor=58a6ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=58a6ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat&logo=mongodb&logoColor=58a6ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=58a6ff)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat&logo=redis&logoColor=58a6ff)
+
+**Cloud / DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazonaws&logoColor=58a6ff)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=58a6ff)
+![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat&logo=apachekafka&logoColor=58a6ff)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat&logo=nginx&logoColor=58a6ff)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat&logo=microsoftazure&logoColor=58a6ff)
+
+</div>
+
+---
+
+## § 5 · Results & Metrics
+
+<div align="center">
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvGoyal404&theme=github-dark-blue&border_radius=6&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=DhruvGoyal404&show_icons=true&theme=github_dark&border_radius=6&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
+
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvGoyal404&layout=compact&theme=github_dark&border_radius=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+---
+
+## § 6 · Currently Working On
+
+```python
+current_research = [
+    "Next NLP paper in pipeline",
+    "New project: details classified 🔒",
+]
+
+current_status = "open_to_opportunities"  # internships, research collabs
+```
+
+---
+
+## § Acknowledgements
+
+*Grateful to Prof. Jatin Bedi (TIET) for research guidance · Ishita Gupta for being Team Paradise · CCS TIET for the early grind · Everyone who ever reviewed a PR at 2am.*
+
+*"The best way to predict the future is to implement it."*
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DhruvGoyalThapar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://dhruvgoyal.tech)
+[![DSA](https://img.shields.io/badge/DSA_Portfolio-58a6ff?style=for-the-badge&logo=leetcode&logoColor=white)](https://dsa.dhruvgoyal.tech)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruv621999goyal@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=DhruvGoyal404&column=8&theme=react&margin-h=15&margin-w=5&no-bg=true">
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" title="C" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" title="C++" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" title="Java" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" title="TypeScript" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" title="Next.js" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" title="Node.js" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js" title="Express.js" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50" alt="Vite" title="Vite" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" title="MongoDB" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" title="PostgreSQL" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" title="Firebase" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" title="NumPy" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="Matplotlib" title="Matplotlib" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" title="TensorFlow" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="Scikit-Learn" title="Scikit-Learn" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" title="GitHub" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="VS Code" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="NPM" title="NPM" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" title="Postman" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="Canva" title="Canva" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="Google Cloud" title="Google Cloud" />
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DhruvGoyalThapar/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruv621999goyal@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agent__dg)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/538672958110171137/705433309160669190)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://dhruvgoyalportfolio.vercel.app/)
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Activity Graph
-[![Dhruv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DhruvGoyal404&bg_color=20232a&color=61dafb&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
+<sub>auto-updated via GitHub Actions · last commit tells the real story</sub>
 </div>
