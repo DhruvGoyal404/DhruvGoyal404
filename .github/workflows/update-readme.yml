@@ -1,0 +1,20 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs daily at midnight UTC
+  workflow_dispatch:       # manual trigger bhi possible
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "dhruv621999goyal@gmail.com"
+          git config --global user.name "DhruvGoyal404"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "docs: auto-update README [skip ci]"
+          git push
