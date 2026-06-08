@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/DhruvGoyalThapar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat&logoColor=58a6ff)](https://dhruvgoyal.tech)
 [![LeetCode](https://img.shields.io/badge/LeetCode-agent__dg-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/agent_dg/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-dhruv6219q60b-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/dhruv6219q60b)
 [![DSA Portfolio](https://img.shields.io/badge/DSA_Portfolio-0d1117?style=flat&logoColor=58a6ff)](https://dsa.dhruvgoyal.tech)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhruv621999goyal@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/agent__dg)
@@ -25,11 +26,15 @@
 - 📄 Published at **ACL 2026** — SemEval (causal reasoning, word sense) + SMM4H (health mining across 3 tasks)
 - 🏆 **Smart India Hackathon 2025 Winner** — AI-driven next-gen firewall with GNN + Federated Learning
 - 🚀 **Summer SDE Intern** at Rebec Technologies Pvt. Lt.
+- 📈 Awarded multiple Certificates, Letter of Recommendation, & Internship Certificates
 - 🎓 Merit Scholar · CGPA 8.85 · Amazon ML Summer School 2025 (top 5% amongst 60,000+ applicants)
-- 🔭 Currently working on next papers and new projects
-- 🍿 Ping me up for a Netflix recommendation
+- 💻 Former Core Member at Creative Computing Society (CCS), TIET
+- ⚡ Interested in developer tools, CI/CD, cloud, backend systems.
+- 🧑‍💻 Open to Work, Internships, Contribute & Freelance.
 
 ---
+
+## Tech Stack
 
 <div align="center">
 
@@ -129,6 +134,47 @@
 </div>
 
 ---
+
+## Projects & Research
+
+<table>
+<tr>
+<td>
+
+**Vajra**  
+AI firewall with GNN + federated learning for real-time threats.  
+`Suricata` · `DPDK` · `Kafka`
+
+</td>
+<td>
+
+**SemEval 2026**  
+ACL workshop work on causal reasoning and word sense.  
+`LLMs` · `CoT` · `NLP`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Deradh**  
+Virtual try-on with measurement estimation and fast CV inference.  
+`OpenCV` · `MediaPipe` · `TensorRT`
+
+</td>
+<td>
+
+**Kompte**  
+Production work on scalable backend features and payments.  
+`Next.js` · `Node.js` · `MongoDB`
+
+</td>
+</tr>
+</table>
+
+---
+
+## My Stats
 
 <div align="center">
 
