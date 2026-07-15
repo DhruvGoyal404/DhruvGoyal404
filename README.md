@@ -25,6 +25,7 @@
 
 - 📄 Published at **ACL 2026** — SemEval (causal reasoning, word sense) + SMM4H (health mining across 3 tasks)
 - 🏆 **Smart India Hackathon 2025 Winner** — AI-driven next-gen firewall with GNN + Federated Learning
+- 🥉 **Vibe2Ship 2026 (3rd Place)** — Built Kairos, an AI-powered agentic anti-procrastination companion | Awarded ₹50,000
 - 🚀 **Summer SDE Intern** at Rebec Technologies Pvt. Lt.
 - 📈 Awarded multiple Certificates, Letter of Recommendation, & Internship Certificates
 - 🎓 Merit Scholar · CGPA 8.85 · Amazon ML Summer School 2025 (top 5% amongst 60,000+ applicants)
