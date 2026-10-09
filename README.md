@@ -4,7 +4,7 @@
 
 # Dhruv Goyal
 
-3rd year CSE undergrad at TIET Patiala. I build things that work in production and write papers that get accepted at ACL. Currently doing AI research for the Ministry of Defence while finishing my degree.
+4th year CSE undergrad at TIET Patiala. I build things that work in production and write papers that get accepted at ACL. Currently doing AI research for the Ministry of Defence while finishing my degree.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/DhruvGoyalThapar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat&logoColor=58a6ff)](https://dhruvgoyal.tech)
