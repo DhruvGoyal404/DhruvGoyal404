@@ -32,6 +32,7 @@
 - 💻 Former Core Member at Creative Computing Society (CCS), TIET
 - ⚡ Interested in developer tools, CI/CD, cloud, backend systems.
 - 🧑‍💻 Open to Work, Internships, Contribute & Freelance.
+- 🍿 Catch me up for Netflix recommendations!
 
 ---
 
